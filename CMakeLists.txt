@@ -5,6 +5,7 @@ list(APPEND CMAKE_MODULE_PATH
     ${CMAKE_SOURCE_DIR}/cmake/modules
     ${CMAKE_SOURCE_DIR}/cmake/find-modules
 )
+set(Qt6_DIR /Users/slf/Qt/6.8.1/macos/lib/cmake/Qt6)
 
 #######################################################
 #                Custom Build Configuration
